@@ -1,0 +1,6 @@
+# model
+*.pth
+
+# dataset
+dataset/annotations/
+dataset/images/
